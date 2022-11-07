@@ -1,0 +1,6 @@
+{
+  "port": 5050,
+  "mongoURI": "mongodb+srv://MikhailTrofimov:Audia84.2mon@cluster0.18cyfvo.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "Mikhail-Mern",
+  "baseUrl": "http://localhost:5050"
+}
